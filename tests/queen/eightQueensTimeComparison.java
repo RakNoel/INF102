@@ -1,3 +1,5 @@
+package queen;
+
 import algorithms.queens.dataStuctures.queenGrid;
 import org.junit.BeforeClass;
 import org.junit.FixMethodOrder;
