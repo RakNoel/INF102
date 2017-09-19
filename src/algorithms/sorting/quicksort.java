@@ -3,9 +3,8 @@ package algorithms.sorting;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class quicksort implements sortingAlg<Comparable> {
+public class quicksort{
 
-    @Override
     public Comparable[] sort(Comparable[] c) {
         ArrayList<Comparable> newC = sorter(new ArrayList<>(Arrays.asList(c)));
 

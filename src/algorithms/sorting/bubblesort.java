@@ -1,8 +1,7 @@
 package algorithms.sorting;
 
-public class bubblesort implements sortingAlg<Comparable> {
+public class bubblesort {
 
-    @Override
     public Comparable[] sort(Comparable[] c) {
         int n = c.length;
         for (int i = 0; i < n; i++) {

@@ -2,8 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0bd5bdb3-ba95-44d8-afda-a53a3431ea06" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/semmoppg1/rpTranslator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/List1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/List2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/List3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/List4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/semmoppg1/exactTriplicates.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/semmoppg1/siteBrowser.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/sorting/sortingAlg.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/INF102.iml" afterPath="$PROJECT_DIR$/.idea/INF102.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithms/sorting/bubblesort.java" afterPath="$PROJECT_DIR$/src/algorithms/sorting/bubblesort.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithms/sorting/mergesort.java" afterPath="$PROJECT_DIR$/src/algorithms/sorting/mergesort.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithms/sorting/quicksort.java" afterPath="$PROJECT_DIR$/src/algorithms/sorting/quicksort.java" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,28 +24,82 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-      <file leaf-file-name="sortingTests.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/sorting/sortingTests.java">
+      <file leaf-file-name="exactTriplicates.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/semmoppg1/exactTriplicates.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1248">
-              <caret line="45" column="5" lean-forward="true" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+            <state relative-caret-position="498">
+              <caret line="53" column="46" lean-forward="false" selection-start-line="53" selection-start-column="46" selection-end-line="53" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="docComment;method#isSorted#0;class#sortingTests#0" expanded="false" />
-                <element signature="method#isSorted#0;class#sortingTests#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="rpTranslator.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/semmoppg1/rpTranslator.java">
+      <file leaf-file-name="sortingTests.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/sorting/sortingTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="538">
-              <caret line="19" column="35" lean-forward="true" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+            <state relative-caret-position="615">
+              <caret line="34" column="62" lean-forward="false" selection-start-line="34" selection-start-column="62" selection-end-line="34" selection-end-column="62" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#968#969#0" expanded="true" />
+                <element signature="e#1049#1050#0" expanded="true" />
+                <element signature="docComment;method#isSorted#0;class#sortingTests#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mergesort.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algorithms/sorting/mergesort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="775">
+              <caret line="47" column="20" lean-forward="false" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
+              <folding>
+                <element signature="method#mergesort#0;class#mergesort#0" expanded="false" />
+                <element signature="docComment;method#merge#1;class#mergesort#0" expanded="false" />
+                <element signature="method#merge#1;class#mergesort#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="List1.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/List1.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="332">
+              <caret line="87923" column="5" lean-forward="false" selection-start-line="87923" selection-start-column="0" selection-end-line="87923" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="List2.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/List2.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="332">
+              <caret line="9255" column="5" lean-forward="false" selection-start-line="9255" selection-start-column="0" selection-end-line="9255" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="List3.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/List3.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="332">
+              <caret line="1480" column="5" lean-forward="false" selection-start-line="1480" selection-start-column="0" selection-end-line="1480" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="List4.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/List4.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="332">
+              <caret line="13657" column="5" lean-forward="false" selection-start-line="13657" selection-start-column="0" selection-end-line="13657" selection-end-column="5" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -54,6 +118,8 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>System.out.println</find>
+      <find>Aaban</find>
+      <find>Aabha</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -92,12 +158,14 @@
         <option value="$PROJECT_DIR$/tests/eightQueensTimeComparison.java" />
         <option value="$PROJECT_DIR$/src/algorithms/sorting/AbstractSortingAlg.java" />
         <option value="$PROJECT_DIR$/tests/queen/eightQueensTimeComparison.java" />
+        <option value="$PROJECT_DIR$/src/semmoppg1/rpTranslator.java" />
+        <option value="$PROJECT_DIR$/src/semmoppg1/siteBrowser.java" />
         <option value="$PROJECT_DIR$/src/algorithms/sorting/sortingAlg.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/sorting/mergesort.java" />
         <option value="$PROJECT_DIR$/src/algorithms/sorting/quicksort.java" />
         <option value="$PROJECT_DIR$/src/algorithms/sorting/bubblesort.java" />
         <option value="$PROJECT_DIR$/tests/sorting/sortingTests.java" />
-        <option value="$PROJECT_DIR$/src/semmoppg1/rpTranslator.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/sorting/mergesort.java" />
+        <option value="$PROJECT_DIR$/src/semmoppg1/exactTriplicates.java" />
       </list>
     </option>
   </component>
@@ -111,6 +179,29 @@
     <option name="y" value="-37" />
     <option name="width" value="1600" />
     <option name="height" value="1837" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Performance</id>
+          </State>
+          <State>
+            <id>Android Lint for Kotlin</id>
+          </State>
+          <State>
+            <id>Plugin DevKit</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -127,6 +218,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -137,25 +230,65 @@
             <path>
               <item name="INF102" type="b2602c69:ProjectViewProjectNode" />
               <item name="INF102" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="INF102" type="b2602c69:ProjectViewProjectNode" />
+              <item name="INF102" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="INF102" type="b2602c69:ProjectViewProjectNode" />
+              <item name="INF102" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="INF102" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="INF102" type="b2602c69:ProjectViewProjectNode" />
+              <item name="INF102" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="INF102" type="b2602c69:ProjectViewProjectNode" />
+              <item name="INF102" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="INF102" type="b2602c69:ProjectViewProjectNode" />
+              <item name="INF102" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="INF102" type="b2602c69:ProjectViewProjectNode" />
+              <item name="INF102" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="sorting" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="INF102" type="b2602c69:ProjectViewProjectNode" />
               <item name="INF102" type="462c0819:PsiDirectoryNode" />
               <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="INF102" type="b2602c69:ProjectViewProjectNode" />
+              <item name="INF102" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="sorting" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="SDKs" />
@@ -165,10 +298,12 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources" />
       <recent name="C:\Users\oskar\IdeaProjects\INF102\src\algorithms\nQueensBitwise" />
       <recent name="C:\Users\oskar\IdeaProjects\INF102\src\analyses" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/out/production/INF102/semmoppg1" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/tests" />
       <recent name="C:\Users\oskar\IdeaProjects\INF102\src\analyses" />
@@ -186,7 +321,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.rpTranslator">
+  <component name="RunManager" selected="Application.exactTriplicates">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -267,14 +402,14 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="quicksort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="exactTriplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="algorithms.sorting.*" />
+          <option name="PATTERN" value="semmoppg1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="algorithms.sorting.quicksort" />
+      <option name="MAIN_CLASS_NAME" value="semmoppg1.exactTriplicates" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -286,14 +421,14 @@
       <module name="INF102" />
       <envs />
     </configuration>
-    <configuration name="rpTranslator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="siteBrowser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="semmoppg1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="semmoppg1.rpTranslator" />
+      <option name="MAIN_CLASS_NAME" value="semmoppg1.siteBrowser" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -330,7 +465,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="sortingTests.sortingTests_issorted" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="sortingTests.sortingTests_merge" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="sorting.*" />
@@ -342,7 +477,7 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="sorting" />
       <option name="MAIN_CLASS_NAME" value="sorting.sortingTests" />
-      <option name="METHOD_NAME" value="sortingTests_issorted" />
+      <option name="METHOD_NAME" value="sortingTests_merge" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -381,19 +516,19 @@
       <patterns />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.sortingTests.sortingTests_issorted" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.sortingTests" />
-      <item index="2" class="java.lang.String" itemvalue="Application.quicksort" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.sortingTests.sortingTests_qs" />
-      <item index="4" class="java.lang.String" itemvalue="Application.rpTranslator" />
+      <item index="0" class="java.lang.String" itemvalue="Application.siteBrowser" />
+      <item index="1" class="java.lang.String" itemvalue="Application.exactTriplicates" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.sortingTests.sortingTests_qs" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.sortingTests.sortingTests_merge" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.sortingTests" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.rpTranslator" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.sortingTests" />
-        <item index="2" class="java.lang.String" itemvalue="Application.quicksort" />
+        <item index="0" class="java.lang.String" itemvalue="Application.exactTriplicates" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.sortingTests.sortingTests_merge" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.sortingTests" />
         <item index="3" class="java.lang.String" itemvalue="JUnit.sortingTests.sortingTests_qs" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.sortingTests.sortingTests_issorted" />
+        <item index="4" class="java.lang.String" itemvalue="Application.siteBrowser" />
       </list>
     </recent_temporary>
   </component>
@@ -417,7 +552,9 @@
       <workItem from="1505734451100" duration="1528000" />
       <workItem from="1505736654919" duration="7224000" />
       <workItem from="1505744458279" duration="244000" />
-      <workItem from="1505752819946" duration="6230000" />
+      <workItem from="1505752819946" duration="6266000" />
+      <workItem from="1505768233063" duration="3793000" />
+      <workItem from="1505772052561" duration="16753000" />
     </task>
     <task id="LOCAL-00001" summary="real update">
       <created>1505734973182</created>
@@ -433,43 +570,50 @@
       <option name="project" value="LOCAL" />
       <updated>1505756745484</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="task 1">
+      <created>1505759063382</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1505759063382</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="sortingTests - 2017.09.18 at 17h 23m 40s.xml">
+    <history-entry file="sortingTests - 2017.09.19 at 02h 42m 38s.xml">
       <configuration name="sortingTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="sortingTests - 2017.09.18 at 17h 23m 57s.xml">
-      <configuration name="sortingTests" configurationId="JUnit" />
+    <history-entry file="sortingTests_sortingTests_merge - 2017.09.19 at 01h 37m 05s.xml">
+      <configuration name="sortingTests.sortingTests_merge" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="sortingTests - 2017.09.18 at 17h 24m 18s.xml">
-      <configuration name="sortingTests" configurationId="JUnit" />
+    <history-entry file="sortingTests_sortingTests_merge - 2017.09.19 at 01h 43m 48s.xml">
+      <configuration name="sortingTests.sortingTests_merge" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="sortingTests - 2017.09.18 at 17h 38m 21s.xml">
-      <configuration name="sortingTests" configurationId="JUnit" />
+    <history-entry file="sortingTests_sortingTests_merge - 2017.09.19 at 01h 44m 32s.xml">
+      <configuration name="sortingTests.sortingTests_merge" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="sortingTests - 2017.09.18 at 17h 38m 55s.xml">
-      <configuration name="sortingTests" configurationId="JUnit" />
+    <history-entry file="sortingTests_sortingTests_merge - 2017.09.19 at 01h 49m 34s.xml">
+      <configuration name="sortingTests.sortingTests_merge" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="sortingTests - 2017.09.18 at 17h 39m 13s.xml">
-      <configuration name="sortingTests" configurationId="JUnit" />
+    <history-entry file="sortingTests_sortingTests_merge - 2017.09.19 at 01h 50m 08s.xml">
+      <configuration name="sortingTests.sortingTests_merge" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="sortingTests - 2017.09.18 at 17h 43m 07s.xml">
-      <configuration name="sortingTests" configurationId="JUnit" />
+    <history-entry file="sortingTests_sortingTests_merge - 2017.09.19 at 03h 00m 38s.xml">
+      <configuration name="sortingTests.sortingTests_merge" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="sortingTests - 2017.09.18 at 17h 44m 03s.xml">
-      <configuration name="sortingTests" configurationId="JUnit" />
+    <history-entry file="sortingTests_sortingTests_merge - 2017.09.19 at 03h 01m 07s.xml">
+      <configuration name="sortingTests.sortingTests_merge" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="sortingTests - 2017.09.18 at 17h 44m 24s.xml">
-      <configuration name="sortingTests" configurationId="JUnit" />
+    <history-entry file="sortingTests_sortingTests_merge - 2017.09.19 at 03h 01m 55s.xml">
+      <configuration name="sortingTests.sortingTests_merge" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="sortingTests - 2017.09.18 at 18h 03m 23s.xml">
-      <configuration name="sortingTests" configurationId="JUnit" />
+    <history-entry file="sortingTests_sortingTests_qs - 2017.09.19 at 01h 36m 57s.xml">
+      <configuration name="sortingTests.sortingTests_qs" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47457000" />
+    <option name="totallyTimeSpent" value="68039000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-37" width="3200" height="1837" extended-state="6" />
@@ -483,18 +627,19 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3609851" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2832145" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26014167" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14874436" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292288" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3998704" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -504,7 +649,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292288" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -516,30 +660,28 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="real update" />
     <MESSAGE value="sorting" />
-    <option name="LAST_COMMIT_MESSAGE" value="sorting" />
+    <MESSAGE value="task 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="13" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/semmoppg1/exactTriplicates.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="24" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/algorithms/sorting/mergesort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="12" column="37" lean-forward="false" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithms/sorting/quicksort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="8" column="64" lean-forward="true" selection-start-line="8" selection-start-column="64" selection-end-line="8" selection-end-column="64" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -548,7 +690,8 @@
         <state relative-caret-position="800">
           <caret line="39" column="5" lean-forward="false" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#1228#1229#0" expanded="false" />
+            <element signature="e#1310#1311#0" expanded="false" />
             <element signature="docComment;method#isSorted#0;class#sortingTests#0" expanded="false" />
             <element signature="method#isSorted#0;class#sortingTests#0" expanded="false" />
           </folding>
@@ -559,7 +702,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
           <caret line="3" column="29" lean-forward="false" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -567,9 +709,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -577,7 +716,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
           <caret line="12" column="37" lean-forward="true" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -585,7 +723,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
           <caret line="3" column="29" lean-forward="false" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -594,7 +731,8 @@
         <state relative-caret-position="800">
           <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#1228#1229#0" expanded="false" />
+            <element signature="e#1310#1311#0" expanded="false" />
             <element signature="docComment;method#isSorted#0;class#sortingTests#0" expanded="false" />
             <element signature="method#isSorted#0;class#sortingTests#0" expanded="false" />
           </folding>
@@ -605,9 +743,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="64">
           <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -615,23 +750,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="64">
           <caret line="2" column="52" lean-forward="false" selection-start-line="2" selection-start-column="52" selection-end-line="2" selection-end-column="52" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/sorting/heapsort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/sorting/heapsort.java" />
     <entry file="file://$PROJECT_DIR$/src/algorithms/sorting/mergesort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -640,7 +766,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
           <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -742,20 +867,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/sorting/heapsort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/sorting/heapsort.java" />
     <entry file="file://$PROJECT_DIR$/src/algorithms/sorting/AbstractSortingAlg.java" />
     <entry file="file://$PROJECT_DIR$/tests/queen/eightQueensTimeComparison.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -763,66 +880,147 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="32">
           <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-          <folding>
-            <element signature="method#before#0;class#eightQueensTest#0" expanded="false" />
-            <element signature="method#BitTest#0;class#eightQueensTest#0" expanded="false" />
-            <element signature="method#BitGridCheck#0;class#eightQueensTest#0" expanded="false" />
-            <element signature="docComment;method#genPermutations#0;class#eightQueensTest#0" expanded="false" />
-            <element signature="method#genPermutations#0;class#eightQueensTest#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/sorting/sortingAlg.java">
+    <entry file="file://$PROJECT_DIR$/src/semmoppg1/rpTranslator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="3" column="29" lean-forward="false" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="29" />
+        <state relative-caret-position="640">
+          <caret line="20" column="39" lean-forward="true" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/semmoppg1/siteBrowser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="18" column="29" lean-forward="true" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/INF102/semmoppg1/exactTriplicates.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/sorting/mergesort.java">
+    <entry file="file://$PROJECT_DIR$/out/production/INF102/List4.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1056">
-          <caret line="33" column="16" lean-forward="true" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+        <state relative-caret-position="283">
+          <caret line="43223" column="5" lean-forward="false" selection-start-line="43223" selection-start-column="0" selection-end-line="43223" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/INF102/List3.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="91506" column="5" lean-forward="false" selection-start-line="91506" selection-start-column="0" selection-end-line="91506" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/INF102/List2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="31340" column="5" lean-forward="false" selection-start-line="31340" selection-start-column="0" selection-end-line="31340" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/INF102/List1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="90977" column="5" lean-forward="false" selection-start-line="90977" selection-start-column="0" selection-end-line="90977" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithms/sorting/bubblesort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="12" column="32" lean-forward="true" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+        <state relative-caret-position="64">
+          <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/sorting/sortingAlg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithms/sorting/quicksort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        <state relative-caret-position="160">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/List1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="87923" column="5" lean-forward="false" selection-start-line="87923" selection-start-column="0" selection-end-line="87923" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/List2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="9255" column="5" lean-forward="false" selection-start-line="9255" selection-start-column="0" selection-end-line="9255" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/List3.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="1480" column="5" lean-forward="false" selection-start-line="1480" selection-start-column="0" selection-end-line="1480" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/List4.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="13657" column="5" lean-forward="false" selection-start-line="13657" selection-start-column="0" selection-end-line="13657" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/sorting/mergesort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="775">
+          <caret line="47" column="20" lean-forward="false" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
           <folding>
-            <element signature="imports" expanded="false" />
+            <element signature="method#mergesort#0;class#mergesort#0" expanded="false" />
+            <element signature="docComment;method#merge#1;class#mergesort#0" expanded="false" />
+            <element signature="method#merge#1;class#mergesort#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/sorting/sortingTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1248">
-          <caret line="45" column="5" lean-forward="true" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+        <state relative-caret-position="615">
+          <caret line="34" column="62" lean-forward="false" selection-start-line="34" selection-start-column="62" selection-end-line="34" selection-end-column="62" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#968#969#0" expanded="true" />
+            <element signature="e#1049#1050#0" expanded="true" />
             <element signature="docComment;method#isSorted#0;class#sortingTests#0" expanded="false" />
-            <element signature="method#isSorted#0;class#sortingTests#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/semmoppg1/rpTranslator.java">
+    <entry file="file://$PROJECT_DIR$/src/semmoppg1/exactTriplicates.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="538">
-          <caret line="19" column="35" lean-forward="true" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+        <state relative-caret-position="498">
+          <caret line="53" column="46" lean-forward="false" selection-start-line="53" selection-start-column="46" selection-end-line="53" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
